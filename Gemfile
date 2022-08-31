@@ -49,4 +49,6 @@ end
 gem "jwt"
 
 gem "active_model_serializers"
+gem 'omniauth-github', github: 'omniauth/omniauth-github', branch: 'master'
+gem 'devise'
 
